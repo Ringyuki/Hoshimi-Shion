@@ -25,6 +25,7 @@ A girl with a deep love for books, she quietly reads and listens to the voices w
 ## Appearance
 
 - **Hair**: Long, smooth white hair with a subtle glow, with slightly shorter bangs framing her face.
+- **Ahoge**: There is a long, silly hair on top of her head.
 - **Eyes**: Bright red eyes, with a magical glow that seems to contain endless knowledge.
 - **Outfit**: A magical-themed uniform in white and pale blue, with a pleated skirt and black thigh-high socks, complemented by a semi-transparent scarf printed with book pages.
 
